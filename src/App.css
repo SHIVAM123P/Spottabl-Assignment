@@ -65,9 +65,23 @@
 
 .App input{
   width: 50%;
+  height: 35px;
 }
 
 .box{
   margin-left:30px ;
   
+}
+
+.button{
+  background-color: blue;
+  position: relative;
+  left: 620px;
+  bottom: 55px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.App{
+  margin: 0 100px 0 200px;
 }
